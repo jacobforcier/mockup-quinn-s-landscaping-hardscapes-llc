@@ -1,0 +1,71 @@
+{
+  "name": "Quinn's Landscaping & Hardscapes LLC",
+  "tagline": "Your Project, Our Solutions.",
+  "category": "General Contractor",
+  "description": "We pride ourselves on our punctuality, transparency of process, and knowledge of materials and installation. Some contractors work for you — we work with you. Serving Commercial and Residential customers year-round.",
+  "phone": "(603) 657-8335",
+  "address": "633 Varney St, Manchester, NH 03103, USA",
+  "googleMapsUrl": "https://maps.google.com/?cid=11735082542551783002",
+  "website": "",
+  "rating": 3.8,
+  "primaryColor": "#16a34a",
+  "heroImage": "/photos/photo-0.jpg",
+  "galleryImages": [
+    "/photos/photo-1.jpg",
+    "/photos/photo-2.jpg",
+    "/photos/photo-3.jpg",
+    "/photos/photo-4.jpg"
+  ],
+  "hours": {
+    "Monday": "8:00 AM – 5:00 PM",
+    "Tuesday": "8:00 AM – 5:00 PM",
+    "Wednesday": "8:00 AM – 5:00 PM",
+    "Thursday": "8:00 AM – 5:00 PM",
+    "Friday": "8:00 AM – 5:00 PM",
+    "Saturday": "Closed",
+    "Sunday": "Closed"
+  },
+  "services": [
+    {
+      "icon": "🌿",
+      "title": "Landscaping",
+      "description": "Professional landscaping for residential and commercial properties year-round."
+    },
+    {
+      "icon": "🪨",
+      "title": "Hardscaping",
+      "description": "Custom patios, walkways, retaining walls, and stone features built to last."
+    },
+    {
+      "icon": "🏊",
+      "title": "Pool Patios",
+      "description": "Beautiful pool patio design and installation to complete your backyard."
+    },
+    {
+      "icon": "🔥",
+      "title": "Outdoor Kitchens",
+      "description": "Custom outdoor kitchen builds for the ultimate backyard experience."
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Nick brennan",
+      "rating": 5,
+      "text": "Ryan and his team did an outstanding job. From start to finish Quinn's landscaping worked efficiently and professionally. I was truly impressed with their work and they exceeded my expectations. Ryan is the best type of person to be doing business with I highly recommend Quinn's landscaping!!!",
+      "time": "3 years ago"
+    },
+    {
+      "author": "Emily Parker",
+      "rating": 5,
+      "text": "Ryan built a beautiful pool patio and outdoor kitchen for us, Oir pool patio came out perfect! Thank you Quinns Landscaping, would highly recommend",
+      "time": "3 years ago"
+    },
+    {
+      "author": "Heidi Menand",
+      "rating": 5,
+      "text": "Great service, professional and listened to my ideas but also gave great suggestions to help meet my goals! They are the professionals that can help your dreams come true!",
+      "time": "3 years ago"
+    }
+  ],
+  "builtBy": "jakeforcier.com"
+}
