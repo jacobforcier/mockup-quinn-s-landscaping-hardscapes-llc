@@ -26,16 +26,6 @@ export default function CtaBanner() {
           >
             📞 Call {config.phone}
           </a>
-          {config.googleMapsUrl && (
-            <a
-              href={config.googleMapsUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="px-10 py-4 rounded-full bg-white/15 backdrop-blur-sm border border-white/25 text-white font-bold text-lg hover:bg-white/25 transition-colors duration-200"
-            >
-              Get Directions →
-            </a>
-          )}
         </div>
       </div>
     </section>

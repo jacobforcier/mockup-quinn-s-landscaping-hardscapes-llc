@@ -65,17 +65,6 @@ export default function Contact() {
               </div>
             )}
 
-            {config.googleMapsUrl && (
-              <a
-                href={config.googleMapsUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 font-bold text-sm hover:opacity-80 transition-opacity"
-                style={{ color: config.primaryColor }}
-              >
-                Open in Google Maps →
-              </a>
-            )}
           </div>
 
           {/* Hours card */}

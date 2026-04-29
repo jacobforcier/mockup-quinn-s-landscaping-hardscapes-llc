@@ -21,7 +21,7 @@ export default function Hero() {
             className="w-2 h-2 rounded-full"
             style={{ backgroundColor: config.primaryColor }}
           />
-          {config.category} &nbsp;·&nbsp; {city}, NH
+          {city}, NH
         </div>
 
         {/* Headline */}
